@@ -1,5 +1,5 @@
 # Here is a list of my favorite things:
-- Long walks
+- Reading
 - problem solving
-- open source
-- learning git and github
+- learning new things
+
